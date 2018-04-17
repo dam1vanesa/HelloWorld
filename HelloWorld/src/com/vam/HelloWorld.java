@@ -3,7 +3,7 @@ package com.vam;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// añadimos comentario
 		System.out.println("hello world");
 
 	}
